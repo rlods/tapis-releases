@@ -1,8 +1,9 @@
-# Tapis releases
+# Tapis releases (moved)
 
-Downloads and the update feed for **Tapis**, a cloth rug that lies on your Mac desktop.
+**Tapis now lives at [github.com/rlods/tapis](https://github.com/rlods/tapis).** Download the latest
+version from its [Releases](https://github.com/rlods/tapis/releases/latest) page.
 
-- **Download:** the latest DMG is on the [Releases](https://github.com/rlods/tapis-releases/releases/latest) page.
-- **Updates:** Tapis checks `https://rlods.github.io/tapis-releases/appcast.xml` (Sparkle) and updates itself.
-
-The source code is not in this repository.
+This repository stays online for copies of Tapis 0.2.0 and earlier, which check
+`https://rlods.github.io/tapis-releases/appcast.xml` for updates. Its feed keeps announcing new
+versions (downloaded from `rlods/tapis`), so those copies update themselves and then follow the new
+feed. Nothing to do on your side.

@@ -4,5 +4,14 @@
     <title>Tapis</title>
     <link>https://rlods.github.io/tapis-releases/appcast.xml</link>
     <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 07 Oct 2026 09:54:56 +0200</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/rlods/tapis-releases/releases/download/v0.1.0/Tapis-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="ZTx61d+jmE3Slu3jruBSlt0Iytmx+NT9RZZuQlK6y2fhTFyJHfU8Ew/Upot+zMukFlT1V7rK8rbW3ERIhmlaCw==" length="7563545"/>
+        </item>
   </channel>
 </rss>
